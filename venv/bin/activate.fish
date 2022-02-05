@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/minjunes/Documents/S22/hackathon-crypto/venv"
+set -gx VIRTUAL_ENV "/home/RSA-Keypair-Generator/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
